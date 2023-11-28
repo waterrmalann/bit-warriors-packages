@@ -1,0 +1,16 @@
+{
+  "name": "@bit-warriors/status",
+  "version": "1.0.0",
+  "description": "A utility module to expose an Express.js endpoint to return the health status of an application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}
