@@ -34,9 +34,9 @@ app.listen(port, () => {
     ```json
     {
       "online": true,
-      "received": <timestamp>,
+      "received": "<timestamp>",
       "environment": "<environment>",
-      "uptime": <uptimeInSeconds>
+      "uptime": "<uptimeInSeconds>"
     }
     ```
 
@@ -46,7 +46,7 @@ app.listen(port, () => {
   - Returns:
     ```json
     {
-      "connected": true|false,
+      "connected": "true|false",
       "status": "<connectionStatus>",
       "databaseName": "<dbName>"
     }
