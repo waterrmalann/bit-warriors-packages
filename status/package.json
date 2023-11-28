@@ -1,6 +1,6 @@
 {
   "name": "@bit-warriors/status",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility module to expose an Express.js endpoint to return the health status of an application.",
   "main": "index.js",
   "scripts": {
