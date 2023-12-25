@@ -1,0 +1,14 @@
+{
+  "name": "@bit-warriors/ai-feedback",
+  "version": "1.0.1",
+  "description": "Utility module to generate AI Feedback on user submitted code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3"
+  }
+}
